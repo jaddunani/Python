@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0601ff1a-8b81-47c0-b445-274f468368d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claa fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claa ques2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class .que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class method work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number method check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops all mix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opps pratices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opps1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puli ques.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="88cf1579-3fb0-46d0-9019-c6812289c481" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="349LSbpSEMfVmmgHGmcqSMV9OIh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.CLASS 4.executor": "Run",
+    "Python.basic.executor": "Run",
+    "Python.claa fun.executor": "Run",
+    "Python.claa ques2.executor": "Run",
+    "Python.class .que3.executor": "Run",
+    "Python.class method work.executor": "Run",
+    "Python.class questions.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.class1.executor": "Run",
+    "Python.class5.executor": "Run",
+    "Python.fun.executor": "Run",
+    "Python.method 2.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.number method check.executor": "Run",
+    "Python.oops inheritance.executor": "Run",
+    "Python.oops2.executor": "Run",
+    "Python.opps pratices.executor": "Run",
+    "Python.opps1.executor": "Run",
+    "Python.p1.1.executor": "Run",
+    "Python.p1.executor": "Run",
+    "Python.p2.executor": "Run",
+    "Python.p3.executor": "Run",
+    "Python.p4.executor": "Run",
+    "Python.patterns.executor": "Run",
+    "Python.pratice.executor": "Run",
+    "Python.puli ques.executor": "Run",
+    "Python.questions.executor": "Run",
+    "Python.student.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0601ff1a-8b81-47c0-b445-274f468368d3" name="Changes" comment="" />
+      <created>1760620846013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760620846013</updated>
+      <workItem from="1760620860583" duration="9057000" />
+      <workItem from="1761156539515" duration="32877000" />
+      <workItem from="1761814345866" duration="14005000" />
+      <workItem from="1762313378295" duration="3537000" />
+      <workItem from="1762515945097" duration="3981000" />
+      <workItem from="1762583222017" duration="7977000" />
+      <workItem from="1763564041993" duration="51000" />
+      <workItem from="1763564111249" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basic_py$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1762143978591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$puli_ques.coverage" NAME="puli ques Coverage Results" MODIFIED="1762237448643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$CLASS_4.coverage" NAME="CLASS 4 Coverage Results" MODIFIED="1761374966470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$p4.coverage" NAME="p4 Coverage Results" MODIFIED="1761803795330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$pratice.coverage" NAME="pratice Coverage Results" MODIFIED="1760797837222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$class.coverage" NAME="class Coverage Results" MODIFIED="1761157428691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$class5.coverage" NAME="class5 Coverage Results" MODIFIED="1761586928828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$class_questions.coverage" NAME="class questions Coverage Results" MODIFIED="1761288994437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$basic.coverage" NAME="basic Coverage Results" MODIFIED="1760770358878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$student.coverage" NAME="student Coverage Results" MODIFIED="1760708258112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$new.coverage" NAME="new Coverage Results" MODIFIED="1761220684780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$class.coverage" NAME="class Coverage Results" MODIFIED="1760707886864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$claa_fun.coverage" NAME="claa fun Coverage Results" MODIFIED="1761369158463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$p1_1.coverage" NAME="p1.1 Coverage Results" MODIFIED="1762316401328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$method_2.coverage" NAME="method 2 Coverage Results" MODIFIED="1762840094980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1761974711626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$claa_ques2.coverage" NAME="claa ques2 Coverage Results" MODIFIED="1762320023856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$fun.coverage" NAME="fun Coverage Results" MODIFIED="1761157522684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1761802999566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1760770307646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$student.coverage" NAME="student Coverage Results" MODIFIED="1761800473090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$class__que3.coverage" NAME="class .que3 Coverage Results" MODIFIED="1761375990310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic_py$class_method_work.coverage" NAME="class method work Coverage Results" MODIFIED="1762143689227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
