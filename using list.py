@@ -17,3 +17,47 @@
 #     sum+=n[i]
 # print(sum)
 
+# n=list(map(int,input().split()))
+# for i in n:
+#     a=1
+#     b=2
+#     for j in range(0,i+1):
+#         if i==a:
+#             print(i)
+#             break
+#         elif a>i:
+#             break
+#         c=a+b
+#         a=b
+#         b=c
+
+n=list(map(int,input().split()))
+max=0
+min=0
+for i in n:
+    a=0
+    b=1
+    while True:
+        if i==b:
+            pass
+        elif b>i:
+            if b==i:
+                max=c
+            else:
+                max=b
+            if a==i:
+                min=b-a
+            else:
+                min=a
+            break
+        c=a+b
+        a=b
+        b=c
+    print(min,i,max,end=" =")
+    if i-min>max-i:
+        print(max)
+    elif i-min<max-i:
+        print(min)
+    else:
+        print(min,max)
+    print()
