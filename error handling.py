@@ -59,19 +59,19 @@
 #• Create a custom exception named InvalidAgeError. Create a class Voter with a
 #method check_eligibility(age) that raises this exception if age is less than 18.
 
-# class InvalidAgeError(Exception):
-#     pass
-# class Voter:
-#     def check_eligibility(self,age):
-#         if age<18:
-#             raise InvalidAgeError("your age is not eligibile for voting")
-#         else:
-#             print(age)
-# try:
-#     v=Voter()
-#     v.check_eligibility(12)
-# except Exception as e:
-#     print(e)
+class InvalidAgeError(Exception):
+    print("eroor vachindhe")
+class Voter:
+    def check_eligibility(self,age):
+        if age<18:
+            raise InvalidAgeError()
+        else:
+            print(age)
+try:
+    v=Voter()
+    v.check_eligibility(12)
+except Exception as e:
+    print(e)
 
 
 
@@ -186,24 +186,60 @@
 #• Create a class LoginSystem with a method login(password) that raises an
 #exception for an incorrect password and handles the exception outside the class.
 
+#
+# class LoginSystem:
+#     def __init__(self,passw):
+#         self.__passw=passw
+#     #@property
+#     #def p1(self):
+#         #return self.__passw
+#     def login(self,password):
+#         if self.__passw!=password:
+#             raise Exception("entered password is incorect")
+#         else:
+#             print("login succesfully")
+# try:
+#     l=LoginSystem("suvarna")
+#     l.login("suva")
+# except Exception as e:
+#     print(e)
 
-class LoginSystem:
-    def __init__(self,passw):
-        self.__passw=passw
-    #@property
-    #def p1(self):
-        #return self.__passw
+
+# class Shape:
+#     def area(self):
+#         raise NotImplementedError("not implemented")
+# class Rectangle(Shape):
+#     def area(self):
+#         print("area")
+#         super().area()
+# try:
+#     r=Rectangle()
+#     r.area()
+# except Exception as e:
+#     print(e)
+
+
+
+#• Create a class LoginSystem with a method login(password) that raises an
+#exception for an incorrect password and handles the exception outside the class.
+
+class Invaliderror(Exception):
+    print("Invalid Error")
+
+
+class LoginSyastem:
+    def __init__(self,password):
+        self.password=password
     def login(self,password):
-        if self.__passw!=password:
-            raise Exception("entered password is incorect")
+        if password!=self.password:
+            raise Exception()
         else:
-            print("login succesfully")
+            print("succesfully login")
 try:
-    l=LoginSystem("suvarna")
-    l.login("suvarna")
+    l=LoginSyastem("suvarna")
+    l.login("suv")
 except Exception as e:
     print(e)
-
 
 
 

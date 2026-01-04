@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0601ff1a-8b81-47c0-b445-274f468368d3" name="Changes" comment="Init commit">
-      <change afterPath="$PROJECT_DIR$/using list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/ab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/aclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/b1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/cclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/cls1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/cls2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/encapusalation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/ic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main ecapulastion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main ic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main2.class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLASS 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/claa ques2.py" beforeDir="false" afterPath="$PROJECT_DIR$/claa ques2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class .que3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/error handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/using list.py" beforeDir="false" afterPath="$PROJECT_DIR$/using list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,23 +46,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jaddunani"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jaddunani&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="88cf1579-3fb0-46d0-9019-c6812289c481" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jaddunani/Python.git",
-    "accountId": "88cf1579-3fb0-46d0-9019-c6812289c481"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jaddunani/Python.git&quot;,
+    &quot;accountId&quot;: &quot;88cf1579-3fb0-46d0-9019-c6812289c481&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -55,7 +81,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.C.executor": "Run",
     "Python.CLASS 4.executor": "Run",
+    "Python.ab.executor": "Run",
+    "Python.b.executor": "Run",
     "Python.basic.executor": "Run",
     "Python.claa fun.executor": "Run",
     "Python.claa ques2.executor": "Run",
@@ -65,7 +94,15 @@
     "Python.class.executor": "Run",
     "Python.class1.executor": "Run",
     "Python.class5.executor": "Run",
+    "Python.cls2.executor": "Run",
+    "Python.error handling.executor": "Run",
+    "Python.file handling.executor": "Run",
     "Python.fun.executor": "Run",
+    "Python.hof.executor": "Run",
+    "Python.main ecapulastion.executor": "Run",
+    "Python.main ic.executor": "Run",
+    "Python.main1.executor": "Run",
+    "Python.main2.class.executor": "Run",
     "Python.method 2.executor": "Run",
     "Python.new.executor": "Run",
     "Python.number method check.executor": "Run",
@@ -136,7 +173,39 @@
       <option name="project" value="LOCAL" />
       <updated>1766052795852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1766395598084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766395598084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1766398577970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766398577970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1767076585761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767076585762</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1767076594136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767076594136</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
