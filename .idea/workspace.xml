@@ -5,33 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0601ff1a-8b81-47c0-b445-274f468368d3" name="Changes" comment="Init commit">
-      <change afterPath="$PROJECT_DIR$/file handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hof.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/aclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/b1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/cclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/cls1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/cls2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/encapusalation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main ecapulastion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main ic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main2.class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/circularA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/circularB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLASS 4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/claa ques2.py" beforeDir="false" afterPath="$PROJECT_DIR$/claa ques2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class .que3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/error handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/error handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/using list.py" beforeDir="false" afterPath="$PROJECT_DIR$/using list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hof.py" beforeDir="false" afterPath="$PROJECT_DIR$/hof.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Dockerfile" />
         <option value="Python Script" />
       </list>
     </option>
@@ -80,12 +60,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.modules/Dockerfile.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.C.executor": "Run",
     "Python.CLASS 4.executor": "Run",
     "Python.ab.executor": "Run",
     "Python.b.executor": "Run",
     "Python.basic.executor": "Run",
+    "Python.circularA.executor": "Run",
+    "Python.circularB.executor": "Run",
     "Python.claa fun.executor": "Run",
     "Python.claa ques2.executor": "Run",
     "Python.class .que3.executor": "Run",
@@ -205,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767076594136</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1767538965515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767538965515</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

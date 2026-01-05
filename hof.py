@@ -92,10 +92,10 @@ from operator import is_not
 #elements.
 #What happens if the lists are of unequal length?
 
-# a = [1, 2, 3, 4]
-# b = [10, 20, 30, 40]
-# l=list(map(lambda x,y:x+y,a,b))
-# print(l)
+a = [1, 2, 3, 4]
+b = [10, 20, 30, 40]
+l=list(map(lambda x,y:x+y,a,b))
+print(l)
 
 #3. Given a list:
 #nums = [12, 15, 7, 18, 20, 21, 25]
@@ -103,9 +103,9 @@ from operator import is_not
 #5 but NOT divisible by both.
 #Explain how the logical condition works.
 
-# nums = [12, 15, 7, 18, 20, 21, 25]
-# l=list(filter(lambda x:(x%3==0 or x%5==0) and not(x%3==0 and x%5==0),nums))
-# print(l)
+nums = [12, 15, 7, 18, 20, 21, 25]
+l=list(filter(lambda x:(x%3==0 or x%5==0) and not(x%3==0 and x%5==0),nums))
+print(l)
 
 #4. Given a list:
 #nums = [1, 2, 3, 4]
@@ -114,10 +114,10 @@ from operator import is_not
 #Explain how the initial value affects the reduction process.
 
 
-# from functools import reduce
-# nums = [1, 2, 3, 4]
-# l=reduce(lambda x,y:x+y,nums,10)
-# print(l)
+from functools import reduce
+nums = [1, 2, 3, 4]
+l=reduce(lambda x,y:x+y,nums,10)
+print(l)
 
 
 #5. Consider the code below:
