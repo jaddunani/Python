@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0601ff1a-8b81-47c0-b445-274f468368d3" name="Changes" comment="Init commit">
-      <change afterPath="$PROJECT_DIR$/modules/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/circularA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/circularB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/q1a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/q1c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/filehandling q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/main12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/mainq11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/pra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/q1abs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/q1c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mockjan/q2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hof.py" beforeDir="false" afterPath="$PROJECT_DIR$/hof.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +87,17 @@
     "Python.cls2.executor": "Run",
     "Python.error handling.executor": "Run",
     "Python.file handling.executor": "Run",
+    "Python.filehandling q3.executor": "Run",
     "Python.fun.executor": "Run",
     "Python.hof.executor": "Run",
     "Python.main ecapulastion.executor": "Run",
     "Python.main ic.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.main1.executor": "Run",
+    "Python.main12.executor": "Run",
     "Python.main2.class.executor": "Run",
+    "Python.mainq1.executor": "Run",
+    "Python.mainq11.executor": "Run",
     "Python.method 2.executor": "Run",
     "Python.new.executor": "Run",
     "Python.number method check.executor": "Run",
@@ -99,8 +111,11 @@
     "Python.p3.executor": "Run",
     "Python.p4.executor": "Run",
     "Python.patterns.executor": "Run",
+    "Python.pra.executor": "Run",
     "Python.pratice.executor": "Run",
     "Python.puli ques.executor": "Run",
+    "Python.q1concerate class.executor": "Run",
+    "Python.q2.executor": "Run",
     "Python.questions.executor": "Run",
     "Python.student.executor": "Run",
     "Python.using list.executor": "Run",
@@ -113,7 +128,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -196,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767538965515</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1767588332464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767588332464</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
